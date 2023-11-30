@@ -41,7 +41,7 @@ Welcome to the TaskMate project, a collaborative effort by Ali and Ahmed. This A
 The TaskMate application has a simple and intuitive user interface. Here are some key elements:
 
 - **Task List:** Displays a list of tasks with options to edit, mark as complete, or delete.
-
+![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
 - **Add Task:** Provides a form to add new tasks, specifying date and time.
 
 - **Edit Task:** Allows users to edit existing tasks, modifying the description or due date.
